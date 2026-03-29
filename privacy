@@ -31,8 +31,9 @@
     <h2>3. Local Processing</h2>
     <p>If you use the Local Mode, all processing occurs directly on your device. No audio data leaves your phone.</p>
 
-    <h2>4. Advertising (AdMob)</h2>
-    <p>Our application uses Google AdMob to serve advertisements. AdMob may use identifying technologies (like Advertising IDs) to serve personalized ads based on your interests. You can opt out of personalized advertising through your device settings.</p>
+    <h2>4. Advertising and Analytics</h2>
+    <p>Our application uses <strong>Google AdMob</strong> to serve advertisements and <strong>Google Analytics for Firebase</strong> to understand how users interact with our app. These services may collect and use identifying technologies (like Advertising IDs, IP addresses, and usage data) to serve personalized ads and provide usage statistics.</p>
+    <p><strong>For users in the European Economic Area (EEA) and the UK:</strong> We use Google's User Messaging Platform (UMP) to request your explicit consent for personalized advertising and data analytics before any data is collected. You can manage or revoke your consent choices at any time through the privacy settings within the app or your device settings.</p>
 
     <h2>5. Subscriptions and Payments</h2>
     <p>All subscription and payment processing is handled securely by the Google Play Store. We do not have access to your credit card information or billing details.</p>
